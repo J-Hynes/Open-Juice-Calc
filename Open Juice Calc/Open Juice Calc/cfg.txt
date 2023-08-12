@@ -1,3 +1,0 @@
-THEME=system
-
-'system' can be replaced with 'light' or 'dark'
